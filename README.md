@@ -28,5 +28,3 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rimsha-a
 
 Let's innovate together and build amazing things!
 
-
-Let's innovate together and build amazing things!
