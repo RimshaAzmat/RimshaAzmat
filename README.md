@@ -24,6 +24,9 @@ I'm a passionate DevOps engineer with a strong background in Jenkins, WordPress,
 - Designed and implemented a CI/CD Pipeline using Jenkins for an application in AWS.
 
 ## Contact Me
-Feel free to reach out to me via [LinkedIn]([your_linkedin_profile](https://www.linkedin.com/in/rimsha-azmat-841951250/)) for collaboration, questions, or just to connect!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rimsha-azmat-841951250/) or email me at rimshaazmat6@gmail.com for collaboration, questions, or just to connect!
+
+Let's innovate together and build amazing things!
+
 
 Let's innovate together and build amazing things!
