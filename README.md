@@ -14,7 +14,7 @@ I'm a passionate DevOps engineer with a strong background in Jenkins, WordPress,
 - **Monitoring and Logging:** AWS CloudWatch, AWS CloudTrail
 - **Infrastructure as Code (IaC):** AWS CloudFormation, Terraform
 - **Databases:** Oracle, Amazon RDS, Amazon Aurora
-- **AWS Services:** EC2, Route53, S3, Lambda, CloudWatch, IAM, CloudFront
+- **AWS Services:** EC2, Route53, S3, Lambda, CloudWatch, IAM, CloudFront , Cloud Family.
 
 ## Experience
 - Configured Linux servers, managed user accounts, and established permissions for files and directory access.
