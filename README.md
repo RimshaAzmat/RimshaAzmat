@@ -24,29 +24,28 @@ Dedicated to continuous learning and applying new technologies to improve organi
 **EIT Institute, Okara**  
 *August 2023 - Present*
 
-- **Linux Server Configuration and User Management.**
-- **Database Management and Operations using RDS, Aurora, and DynamoDB, etc.**
-- **Web Server and Application Deployment using AWS Amplify, AWS Elastic Beanstalk, Azure App Service.**
-- **CI/CD Pipeline implemented using Jenkins, Azure Pipelines, and AWS CodePipeline.**
-- **Amazon S3 configuration for public access and CORS, managed access logs, implemented storage classes, and hosted static websites.**
-- **Traffic Optimization and DNS Management with Amazon Route 53, Azure DNS, and Traffic Manager.**
-- **Cloud Computing and Auto Scaling for scalable application infrastructure, implemented load balancer.**
-- **Deployed and managed caching solutions with Amazon ElastiCache and Azure Cache for Redis.**
-- **Managed containerized applications using Amazon ECS, Amazon EKS, Docker, and Kubernetes.**
-- **Used Git, GitHub, AWS CodeCommit, and BitBucket for source code management and CI/CD.**
-- **Implemented AWS CloudWatch for monitoring application performance and AWS CloudTrail for auditing and compliance.**
-- **Utilized AWS CloudFormation and Terraform to define and provision infrastructure resources.**
+- Linux Server Configuration and User Management.
+- Database Management and Operations using RDS, Aurora, and DynamoDB, etc.
+- Web Server and Application Deployment using AWS Amplify, AWS Elastic Beanstalk, Azure App Service.
+- CI/CD Pipeline implemented using Jenkins, Azure Pipelines, and AWS CodePipeline.
+- Amazon S3 configuration for public access and CORS, managed access logs, implemented storage classes, and hosted static websites.
+- Traffic Optimization and DNS Management with Amazon Route 53, Azure DNS, and Traffic Manager.
+- Cloud Computing and Auto Scaling for scalable application infrastructure, implemented load balancer.
+- Deployed and managed caching solutions with Amazon ElastiCache and Azure Cache for Redis.
+- Managed containerized applications using Amazon ECS, Amazon EKS, Docker, and Kubernetes.
+- Used Git, GitHub, AWS CodeCommit, and BitBucket for source code management and CI/CD.
+- Implemented AWS CloudWatch for monitoring application performance and AWS CloudTrail for auditing and compliance.
+- Utilized AWS CloudFormation and Terraform to define and provision infrastructure resources.
 
 ### Student  
 **Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad**  
 *September 2020 - July 2024*
 
-- **Simulating Traffic Prediction on Urban Roads Using Machine Learning.**
-- **Converting Day-to-Night and vice versa using GANs.**
-- **PIEAS Admission FAQ ChatBot.**
-- **Student Admission Management Portal.**
-- **Chessboard Representation and Basic Moves.**
-
+- Simulating Traffic Prediction on Urban Roads Using Machine Learning.
+- Converting Day-to-Night and vice versa using GANs.
+- PIEAS Admission FAQ ChatBot.
+- Student Admission Management Portal.
+- Chessboard Representation and Basic Moves.
 
 ## Contact
 
