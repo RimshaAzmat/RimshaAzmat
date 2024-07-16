@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile :)
 
-##Proffessional Summary
-DevOps engineer with hands-on experience in Jenkins, WordPress, AWS, Azure, and Git. Passionate about enhancing software development efficiency through automation, cloud services, and CI/CD.
+## Professional Summary
+DevOps engineer with hands-on experience in Jenkins, WordPress, AWS, Azure, and Git. Passionate about enhancing software development efficiency through automation, cloud services, and CI/CD.
 Dedicated to continuous learning and applying new technologies to improve organizational processes. Experienced with SUMO and proficient in designing and implementing algorithms and models for machine learning and artificial intelligence projects.
 
 ## Skills
