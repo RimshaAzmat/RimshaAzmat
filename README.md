@@ -18,6 +18,21 @@ Dedicated to continuous learning and applying new technologies to improve organi
 - **Containerization:** ECS,EKS, Docker,Kubernetes
 - **AWS Services:** EC2, Route53, S3, Lambda, IAM, CloudFront , Cloud Family , AWS Amplify , ElasticBeastalk.
 
+# Learning DevOps in #90DaysOfDevOps
+
+As part of my ongoing journey, I'm dedicated to mastering essential DevOps skills over the next 90 days. Here are the technologies I'm focusing on:
+
+- 🐚 **Linux Shell Scripting**
+- 🐍 **Python**
+- 🐳 **Docker**
+- 🛠️ **Jenkins**
+- ☸️ **Kubernetes**
+- 🌐 **Terraform**
+- 📊 **Grafana**
+- ⚙️ **Ansible**
+
+Follow along as I dive deep into each of these tools and technologies to enhance my DevOps expertise!
+
 ## Experience
 
 ### DevOps Engineer  
