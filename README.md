@@ -35,6 +35,26 @@ Follow along as I dive deep into each of these tools and technologies to enhance
 
 ## Experience
 
+## DevOps Engineer
+**Crescent Webs**  
+*September 2024 - Present*
+- Provisioned AWS services using Terraform, automating infrastructure deployment.
+- Converted Jenkins jobs to GitHub Actions, optimizing workflows and reducing errors.
+- Tuned workflows for success and handled debugging of CI/CD pipelines.
+- Created analysis reports for CloudFront and ALB performance, ensuring optimized delivery.
+- Configured Cloudflare Tunnel (Cloudflared) for secure and efficient access.
+- Set up a Proxmox server, managing virtualization efficiently.
+- Configured and deployed TrueNAS for optimized storage management.
+- Configured and managing Monitoring Tool Nagios.
+
+## DevOps Traniee
+**CloudOps**
+*July 2024 - August 2024*
+
+- Deployed Laravel, MERN stack, React, and Node applications on cloud platforms.
+- Managed Jitsu deployment using Docker for real-time data streaming.
+- Deployed Cuple app using Docker, ensuring seamless integration and scalability.
+
 ### DevOps Engineer  
 **EIT Institute, Okara**  
 *August 2023 - Present*
